@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> El contenido está basado en el libro [Eloquent JavaScript](https://eloquentjs-es.thedojo.mx/Eloquent_JavaScript.pdf) y en la página oficial de [MDN Web Docs](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide).
+> El contenido está basado en el libro [Eloquent JavaScript](https://eloquentjs-es.thedojo.mx/Eloquent_JavaScript.pdf), en la página oficial de [MDN Web Docs](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) y [JavaScript Moderno](https://es.javascript.info/).
 
 
 # Contenido de JavaScript
@@ -9,11 +9,11 @@
 <summary>JavaScript</summary>
 
 - [¿Qué es JavaScript?](./Contenido/JavaScript/javascript.md)
-- [Convenciones Tipográficas](./Contenido/ConvencionesTipograficas/ConvencionTipografica.md)
 - [Variables](./Contenido/Variables/variable.md)
 - [Tipos de Datos](./Contenido/TiposDatos/TIposDatos.md)
 - [Condicionales](./Contenido/Condicionales/condicionales.md)
 - [Operadores](./Contenido/Operadores/operadores.md)
+- [Conversión de tipo automática](./Contenido/ConversionAutomatica/Conversion.md)
 - [Ciclos](./Contenido/Ciclos/ciclos.md)
 - [Funciones](./Contenido/Funciones/funciones.md)
 - [Estructuras de Datos](./Contenido/EstructuraDatos/estructuraDatos.md)
