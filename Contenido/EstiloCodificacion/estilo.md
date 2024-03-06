@@ -9,7 +9,7 @@ Ese es en realidad el arte de la programación: tomar una tarea compleja y codif
 
 Representación gráfica de la sintaxis correcta de JavaScript:
 
-![sintaxisCorrecta.png](../images/sintaxisCorrecta.png)
+![sintaxisCorrecta.png](../../images/sintaxisCorrecta.png)
 
 ## Llaves 📈
 
